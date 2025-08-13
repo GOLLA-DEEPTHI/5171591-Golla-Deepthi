@@ -1,3 +1,0 @@
-"HackerRank Assignments"==" HackerRank assignments commit"
-"SDLC\Agile course"==" SDLC Agile course commit"
-"Deleted SDLC.html, moved agile.png to SDLC folder, added Git.pdf"=="Updated SDLC and Git folder commit"
